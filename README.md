@@ -7,7 +7,8 @@ The sentiment value in this application is either a good review or a bad review.
 predict neutral reviews. 
 
 ## Screenshots
-
+![sampleOutput](https://github.com/AmielCyber/SentimentPrediction/blob/main/screenshots/dataOutputExample.png)
+![sampleInput](https://github.com/AmielCyber/SentimentPrediction/blob/main/screenshots/pred.png)
 ## Installating From Source
 1. Clone this Github repository into your desired system directory
 2. Install [python](https://www.python.org/downloads/) if not installed
@@ -39,7 +40,7 @@ SentimentPrediction/
     │   ├── doNotRunSection.png
     │   └── pred.png
     └── sentiment_pred/
-        ├── /Training_Data
+        ├── Training_Data/
         │   ├── README.md
         │   ├── amazon_cells_labelled.txt
         │   ├── imdb_labelled.txt
@@ -57,6 +58,7 @@ to take you to the Project's Google Colab or click the following [link](https://
 to go straight to the custom sentiment prediction
 2. Click play on any code except in the *Mount Data for Extraction* section since that will remove the files to train
 the learning model in order to run the program.
+[doNotRunSection](https://github.com/AmielCyber/SentimentPrediction/blob/main/screenshots/doNotRunSection.png)
 3. The last section named; *Enter Your Own Review* is where you can test the learning model with your own sentence review
 
 ### Other Python Notebook Program
