@@ -58,7 +58,7 @@ to take you to the Project's Google Colab or click the following [link](https://
 to go straight to the custom sentiment prediction
 2. Click play on any code except in the *Mount Data for Extraction* section since that will remove the files to train
 the learning model in order to run the program.
-[doNotRunSection](https://github.com/AmielCyber/SentimentPrediction/blob/main/screenshots/doNotRunSection.png)
+![doNotRunSection](https://github.com/AmielCyber/SentimentPrediction/blob/main/screenshots/doNotRunSection.png)
 3. The last section named; *Enter Your Own Review* is where you can test the learning model with your own sentence review
 
 ### Other Python Notebook Program
