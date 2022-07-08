@@ -76,7 +76,7 @@ located for the training data instead of using gdrive.
 Sentiment Prediction is based off an analysis I done in the past to find the best learning model and its best 
 parameters. The learning model is trained to predict the sentiment value of a one sentence review with a high successful
 rate. To see more of this sentiment analysis click on the Github repository or Google Colab below.
-* [Sentiment Analysis Github Repository](https://github.com/AmielCyber/Sentiment-Analysis)
+* [Sentiment Analysis Github Repository Original Commits](https://github.com/AmielCyber/Sentiment-Analysis)
 * [Sentiment Analysis Google Colab](https://colab.research.google.com/drive/1AnsFgIXoibD4XET9OAR2HvEqMX4LLxjx?usp=sharing)
 
 ### Methods and Reference Used
